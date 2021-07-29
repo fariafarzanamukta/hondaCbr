@@ -1,5 +1,5 @@
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
@@ -45,9 +45,9 @@ body{
     color: brown;
 }
 .card-text{
-    font-size: 24px;
+    font-size: 16px;
     color:#6C6C6C;
-    ;
+    
 }
 
 .text-primary-color{
